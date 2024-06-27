@@ -1,4 +1,4 @@
-# Reaf me-
+# Read me-
 Alfred is your personal virtual assistant, designed to help you with various tasks such as opening websites, telling jokes, playing music, providing weather updates, and more.
 
 Please note: Alfred is currently in the development phase. The responses are predefined, and some functionalities require you to obtain your own API keys
